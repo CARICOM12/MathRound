@@ -1,0 +1,5 @@
+/home/alex/Projects/MathRound/MathRound/bin/Debug/MathRound.exe
+/home/alex/Projects/MathRound/MathRound/bin/Debug/MathRound.pdb
+/home/alex/Projects/MathRound/MathRound/obj/x86/Debug/MathRound.csprojAssemblyReference.cache
+/home/alex/Projects/MathRound/MathRound/obj/x86/Debug/MathRound.exe
+/home/alex/Projects/MathRound/MathRound/obj/x86/Debug/MathRound.pdb
